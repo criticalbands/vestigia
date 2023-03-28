@@ -1,0 +1,17 @@
+download all three 
+
+go to tools libraries manage libraries and install the lbrnaries
+
+search for: TFT_ESPi look for the user bodmer and isntall version 2.3.4
+
+then go to arduino linraries TFT ESPI and paste the user_setup.h into there. restart computer
+
+
+
+in the code for bitcoin.ino create new tab title it frame.h and paste code for frame. h, do the same by making a tab orb.h and paste orb.h code in there
+
+in the bitcoin.ino code look for the part for wifi update it for the horse wifi data should be it
+
+
+when uploading code go to tools> board> TTGO LoRa32-OLED V1 should take a minute and should be it
+
